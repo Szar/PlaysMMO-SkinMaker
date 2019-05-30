@@ -1,2 +1,5 @@
-# PlaysMMO-SkinMaker
-Skin generator for PlaysMMO
+# PlaysMMO Skin Maker
+Create PlaysMMO Skins
+
+## Build
+`pyinstaller --noconsole --onefile build.spec`
